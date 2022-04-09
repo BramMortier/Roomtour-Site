@@ -13,7 +13,6 @@ import {
   Info,
 } from "./SliderElements";
 import { carouselContent } from "./data";
-import SlideImage1 from "../../images/desktop-image-hero-1.jpg";
 
 const Slider = () => {
   const [currentContent, setCurrentContent] = useState(0);
