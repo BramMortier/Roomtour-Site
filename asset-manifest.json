@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RoomTour-Website/static/css/main.9a818dc8.css",
-    "main.js": "/RoomTour-Website/static/js/main.0ba0fb84.js",
+    "main.js": "/RoomTour-Website/static/js/main.d3505bfe.js",
     "static/media/desktop-image-hero-1.jpg": "/RoomTour-Website/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
     "static/media/desktop-image-hero-3.jpg": "/RoomTour-Website/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
     "static/media/desktop-image-hero-2.jpg": "/RoomTour-Website/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
@@ -14,10 +14,10 @@
     "static/media/icon-angle-left.svg": "/RoomTour-Website/static/media/icon-angle-left.d53877dfd9c6774a68749ad0239b4ce1.svg",
     "static/media/icon-angle-right.svg": "/RoomTour-Website/static/media/icon-angle-right.0ed3f81fbd14b3bd61d875b7df144e4c.svg",
     "main.9a818dc8.css.map": "/RoomTour-Website/static/css/main.9a818dc8.css.map",
-    "main.0ba0fb84.js.map": "/RoomTour-Website/static/js/main.0ba0fb84.js.map"
+    "main.d3505bfe.js.map": "/RoomTour-Website/static/js/main.d3505bfe.js.map"
   },
   "entrypoints": [
     "static/css/main.9a818dc8.css",
-    "static/js/main.0ba0fb84.js"
+    "static/js/main.d3505bfe.js"
   ]
 }
